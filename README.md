@@ -1,1 +1,1 @@
-# bbr
+# bbr install
